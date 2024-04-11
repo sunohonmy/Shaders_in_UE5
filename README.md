@@ -1,2 +1,2 @@
-# FInalYearPRojectSubmission
+# Final Year Project Submission
  
