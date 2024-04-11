@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.MakeBox.cpp.obj": [
+			"MakeBox.cpp.obj",
+			"MakeBoxCommands.cpp.obj",
+			"MakeBoxStyle.cpp.obj"
+		]
+	}
+}
