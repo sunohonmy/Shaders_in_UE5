@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MakeBox.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\sunohonmy\Documents\Unreal Projects\pluginDev\Intermediate\Build\Win64\x64\pluginDevEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\sunohonmy\Documents\Unreal Projects\pluginDev\Plugins\MakeBox\Intermediate\Build\Win64\x64\UnrealEditor\Development\MakeBox\Module.MakeBox.cpp.obj"
+"C:\Users\sunohonmy\Documents\Unreal Projects\pluginDev\Plugins\MakeBox\Intermediate\Build\Win64\x64\UnrealEditor\Development\MakeBox\Default.rc2.res"
+/OUT:"C:\Users\sunohonmy\Documents\Unreal Projects\pluginDev\Plugins\MakeBox\Intermediate\Build\Win64\x64\UnrealEditor\Development\MakeBox\UnrealEditor-MakeBox.lib"

@@ -34,9 +34,9 @@
 /NODEFAULTLIB:"LIBCD"
 /NODEFAULTLIB:"LIBCPD"
 /FUNCTIONPADMIN:6
-"C:\Users\sunohonmy\Documents\Unreal Projects\pluginDev\Intermediate\Build\Win64\x64\pluginDevEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
-"C:\Users\sunohonmy\Documents\Unreal Projects\pluginDev\Plugins\MakeBox\Intermediate\Build\Win64\x64\UnrealEditor\Development\MakeBox\Module.MakeBox.cpp.obj"
-"C:\Users\sunohonmy\Documents\Unreal Projects\pluginDev\Plugins\MakeBox\Intermediate\Build\Win64\x64\UnrealEditor\Development\MakeBox\Default.rc2.res"
+"C:\Users\sunohonmy\Desktop\Shaders_in_UE5\pluginDev\Intermediate\Build\Win64\x64\pluginDevEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\sunohonmy\Desktop\Shaders_in_UE5\pluginDev\Plugins\MakeBox\Intermediate\Build\Win64\x64\UnrealEditor\Development\MakeBox\Module.MakeBox.cpp.obj"
+"C:\Users\sunohonmy\Desktop\Shaders_in_UE5\pluginDev\Plugins\MakeBox\Intermediate\Build\Win64\x64\UnrealEditor\Development\MakeBox\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Projects\UnrealEditor-Projects.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\InputCore\UnrealEditor-InputCore.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\EditorFramework\UnrealEditor-EditorFramework.lib"
@@ -72,7 +72,7 @@
 "synchronization.lib"
 "dwmapi.lib"
 "imm32.lib"
-/OUT:"C:\Users\sunohonmy\Documents\Unreal Projects\pluginDev\Plugins\MakeBox\Binaries\Win64\UnrealEditor-MakeBox.dll"
-/IMPLIB:"C:\Users\sunohonmy\Documents\Unreal Projects\pluginDev\Plugins\MakeBox\Intermediate\Build\Win64\x64\UnrealEditor\Development\MakeBox\UnrealEditor-MakeBox.sup.lib"
-/PDB:"C:\Users\sunohonmy\Documents\Unreal Projects\pluginDev\Plugins\MakeBox\Binaries\Win64\UnrealEditor-MakeBox.pdb"
+/OUT:"C:\Users\sunohonmy\Desktop\Shaders_in_UE5\pluginDev\Plugins\MakeBox\Binaries\Win64\UnrealEditor-MakeBox.dll"
+/IMPLIB:"C:\Users\sunohonmy\Desktop\Shaders_in_UE5\pluginDev\Plugins\MakeBox\Intermediate\Build\Win64\x64\UnrealEditor\Development\MakeBox\UnrealEditor-MakeBox.sup.lib"
+/PDB:"C:\Users\sunohonmy\Desktop\Shaders_in_UE5\pluginDev\Plugins\MakeBox\Binaries\Win64\UnrealEditor-MakeBox.pdb"
 /ignore:4078

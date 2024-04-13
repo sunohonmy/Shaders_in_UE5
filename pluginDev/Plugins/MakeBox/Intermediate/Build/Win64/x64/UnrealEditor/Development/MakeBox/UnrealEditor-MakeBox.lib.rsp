@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-MakeBox.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"C:\Users\sunohonmy\Documents\Unreal Projects\pluginDev\Intermediate\Build\Win64\x64\pluginDevEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
-"C:\Users\sunohonmy\Documents\Unreal Projects\pluginDev\Plugins\MakeBox\Intermediate\Build\Win64\x64\UnrealEditor\Development\MakeBox\Module.MakeBox.cpp.obj"
-"C:\Users\sunohonmy\Documents\Unreal Projects\pluginDev\Plugins\MakeBox\Intermediate\Build\Win64\x64\UnrealEditor\Development\MakeBox\Default.rc2.res"
-/OUT:"C:\Users\sunohonmy\Documents\Unreal Projects\pluginDev\Plugins\MakeBox\Intermediate\Build\Win64\x64\UnrealEditor\Development\MakeBox\UnrealEditor-MakeBox.lib"
+"C:\Users\sunohonmy\Desktop\Shaders_in_UE5\pluginDev\Intermediate\Build\Win64\x64\pluginDevEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\sunohonmy\Desktop\Shaders_in_UE5\pluginDev\Plugins\MakeBox\Intermediate\Build\Win64\x64\UnrealEditor\Development\MakeBox\Module.MakeBox.cpp.obj"
+"C:\Users\sunohonmy\Desktop\Shaders_in_UE5\pluginDev\Plugins\MakeBox\Intermediate\Build\Win64\x64\UnrealEditor\Development\MakeBox\Default.rc2.res"
+/OUT:"C:\Users\sunohonmy\Desktop\Shaders_in_UE5\pluginDev\Plugins\MakeBox\Intermediate\Build\Win64\x64\UnrealEditor\Development\MakeBox\UnrealEditor-MakeBox.lib"
